@@ -1,0 +1,34 @@
+* {
+    background: rgb(233, 229, 236);
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+img {
+    display: block;
+    height: 250px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#notEaten {
+    display: block;
+}
+
+#eaten {
+    display: block;
+}
+
+#boxes {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#column1 {
+    width: 50%;
+}
