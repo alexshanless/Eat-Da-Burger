@@ -4,9 +4,9 @@ Eat-da-burger is a simple app meant to help users keep track of any delicious bu
 
 # Technologies 
 
-*NodeJS
-*Express
-*Handlebars
+* NodeJS
+* Express
+* Handlebars
 
 # Links
 
